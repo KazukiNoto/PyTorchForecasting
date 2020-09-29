@@ -1,2 +1,3 @@
 # PyTorchForecasting
-PyTorchForecasting
+
+PyTorchForecastingのライブラリを勉強するリポジトリ
